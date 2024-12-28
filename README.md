@@ -58,6 +58,52 @@ https://learnsql.com/blog/roadmap-to-become-data-analyst/
 
 https://learnsql.fr/blog/le-cycle-de-vie-de-l-analyse-des-donnees-de-l-ensemble-des-donnees-a-la-presentation/
 
+https://learnsql.com/blog/sql-for-data-analysis-cheat-sheet/ 
+
+https://learnsql.fr/blog/visualisation-des-donnees-a-l-aide-de-sql-un-guide-complet-pour-les-analystes-de-donnees/ 
+
+https://learnsql.fr/blog/comment-les-competences-en-sql-peuvent-booster-votre-cv/ 
+
+https://learnsql.fr/blog/des-choix-de-carriere-fondes-sur-les-donnees-etudiant-en-base-de-donnees/ 
+
+https://learnsql.fr/blog/comment-se-preparer-a-un-entretien-sql-avance/ 
+
+https://learnsql.fr/blog/sql-pour-les-chefs-de-projet-ameliorer-la-prise-de-decision/ 
+
+https://learnsql.fr/blog/joins-sql-pour-les-debutants/ 
+
+https://learnsql.fr/blog/joins-sql/ 
+
+https://learnsql.fr/blog/apprendre-les-jointures-avec-des-exemples-reels-de-sql/ 
+
+https://learnsql.fr/blog/introduction-a-l-utilisation-des-fonctions-agregees-sql-avec-les-joins/ 
+
+https://learnsql.fr/blog/guide-illustre-du-cross-join-sql/ 
+
+https://learnsql.fr/blog/guide-illustre-du-sql-inner-join/ 
+
+https://learnsql.fr/blog/guide-illustre-de-la-clause-sql-outer-join/ 
+
+https://learnsql.fr/blog/un-guide-illustre-de-l-auto-jonction-sql/ 
+
+https://learnsql.fr/blog/un-guide-illustre-de-la-jointure-sql-non-equivoque/ 
+
+https://learnsql.fr/blog/un-guide-illustre-des-jointures-multiples/ 
+
+https://learnsql.fr/blog/sql-inner-join-explique-en-mots-simples/ 
+
+https://learnsql.fr/blog/comment-effectuer-une-jointure-gauche-de-plusieurs-tables-en-sql/ 
+
+https://learnsql.fr/blog/comment-pratiquer-les-joins-sql/ 
+
+https://learnsql.fr/blog/comment-joindre-3-tables-ou-plus-en-sql/ 
+
+https://learnsql.fr/blog/comment-apprendre-les-jointures-sql/ 
+
+https://learnsql.fr/blog/tags/analyse-des-donn%C3%A9es/ 
+
+
+
 ### analytics.fr
 
 https://analytics.fr/analyse-de-donnees/collecte-de-donnees/#5-preparation-des-donnees
@@ -90,6 +136,8 @@ https://www.data-bird.co/blog/comment-se-former-a-lanalyse-de-donnees
 
 https://www.data-bird.co/blog/dictionnaire-de-donnee
 
+https://www.data-bird.co/blog/data-cleaning-methodes 
+
 ### datacamp.com/fr
 
 https://www.datacamp.com/fr/blog/data-analytics-projects-all-levels
@@ -107,6 +155,12 @@ https://blog.avanci.fr/data-comment-bien-analyser-ses-donnees
 ### limpida.com
 
 https://www.limpida.com/blog/projet-analyse-de-donnees
+
+### Others
+
+https://www.iod-solutions.fr/comment-analyser-et-interpreter-les-donnees-pour-ameliorer-vos-processus-metiers/ 
+
+
 
 
 
