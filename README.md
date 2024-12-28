@@ -98,12 +98,13 @@ https://learnsql.fr/blog/comment-pratiquer-les-joins-sql/
 
 https://learnsql.fr/blog/comment-joindre-3-tables-ou-plus-en-sql/ 
 
-https://learnsql.fr/blog/comment-apprendre-les-jointures-sql/ 
+https://learnsql.fr/blog/comment-apprendre-les-jointures-sql/
+
+https://learnsql.com/blog/sql-for-data-analysis-cheat-sheet/ 
 
 Plusieurs articles : 
 
 https://learnsql.fr/blog/tags/analyse-des-donn%C3%A9es/
-
 
 
 ### analytics.fr
