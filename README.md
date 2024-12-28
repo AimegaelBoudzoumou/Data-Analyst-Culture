@@ -158,10 +158,18 @@ https://www.limpida.com/blog/projet-analyse-de-donnees
 
 ### Others
 
-https://www.iod-solutions.fr/comment-analyser-et-interpreter-les-donnees-pour-ameliorer-vos-processus-metiers/ 
+https://www.iod-solutions.fr/comment-analyser-et-interpreter-les-donnees-pour-ameliorer-vos-processus-metiers/
 
+## Statistiques
 
+https://www.mobiskill.fr/blog-posts/7-concepts-statistiques-a-connaitre-en-data-science
 
+https://moncoachdata.com/blog/20-concepts-de-statistiques/
 
+https://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-m-Intro-ExploMultidim.pdf
 
+https://www.udemy.com/course/probabilite-et-statistiques-pour-la-data-science-et-le-business/?srsltid=AfmBOooUXwSXVYDsKzl7fECuAdxbX20pMXujxZIQpugPE4ib0dQiUabz&couponCode=KEEPLEARNING
 
+https://www.youtube.com/watch?v=Qd9nprCaDzg
+
+https://www.youtube.com/watch?v=4EuETpvjzlM
