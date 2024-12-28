@@ -100,7 +100,9 @@ https://learnsql.fr/blog/comment-joindre-3-tables-ou-plus-en-sql/
 
 https://learnsql.fr/blog/comment-apprendre-les-jointures-sql/ 
 
-https://learnsql.fr/blog/tags/analyse-des-donn%C3%A9es/ 
+Plusieurs articles : 
+
+https://learnsql.fr/blog/tags/analyse-des-donn%C3%A9es/
 
 
 
