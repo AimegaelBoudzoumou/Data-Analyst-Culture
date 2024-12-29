@@ -1,6 +1,6 @@
 # Data Analyst Culture
 
-Ce document est une sorte de résumé des articles divers que j'ai lus sur l'analyste de données.
+Ce document est une sorte de résumé des articles divers que j'ai lus sur l'analyse de données.
 
 Il est organisé en plusieurs sections : SQL, Python, Dataviz.
 
