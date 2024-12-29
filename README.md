@@ -12,7 +12,7 @@ Let's go !
 
 Articles à exploiter : 
 
-### learnsql.fr
+### Sources : learnsql.fr
 
 https://learnsql.fr/blog/conversion-de-sous-requetes-en-jointures/
 
