@@ -177,3 +177,5 @@ https://www.udemy.com/course/probabilite-et-statistiques-pour-la-data-science-et
 https://www.youtube.com/watch?v=Qd9nprCaDzg
 
 https://www.youtube.com/watch?v=4EuETpvjzlM
+
+Dataseito - https://www.youtube.com/watch?v=ZzPH8bVKQuI - Power BI
