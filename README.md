@@ -173,9 +173,10 @@ https://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-m-Intro-ExploMultidim.p
 
 https://www.udemy.com/course/probabilite-et-statistiques-pour-la-data-science-et-le-business/?srsltid=AfmBOooUXwSXVYDsKzl7fECuAdxbX20pMXujxZIQpugPE4ib0dQiUabz&couponCode=KEEPLEARNING
 
-
 https://www.youtube.com/watch?v=Qd9nprCaDzg
 
 https://www.youtube.com/watch?v=4EuETpvjzlM
 
 Dataseito - https://www.youtube.com/watch?v=ZzPH8bVKQuI - Power BI
+
+[Faut-il maîtriser les statistiques pour travailler dans la Data ?](https://www.jedha.co/blog/limportance-des-statistiques-en-data-science)
