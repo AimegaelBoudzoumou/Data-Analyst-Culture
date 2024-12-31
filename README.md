@@ -106,6 +106,11 @@ Plusieurs articles :
 
 https://learnsql.fr/blog/tags/analyse-des-donn%C3%A9es/
 
+### coursera
+
+https://www.coursera.org/learn/statistics-for-data-science-python
+
+
 
 ### analytics.fr
 
