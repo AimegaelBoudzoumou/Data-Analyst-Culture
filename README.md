@@ -185,3 +185,21 @@ https://www.youtube.com/watch?v=4EuETpvjzlM
 Dataseito - https://www.youtube.com/watch?v=ZzPH8bVKQuI - Power BI
 
 [Faut-il maîtriser les statistiques pour travailler dans la Data ?](https://www.jedha.co/blog/limportance-des-statistiques-en-data-science)
+
+### How to extract data using API
+
+https://medium.com/@favourphilic/how-to-extract-data-using-api-0fce951e8a79
+
+https://acho.io/blogs/how-to-pull-data-from-an-api
+
+https://rows.com/docs/getting-data-from-any-api
+
+https://technologyadvice.com/blog/information-technology/how-to-use-an-api/
+
+https://zapier.com/blog/how-to-use-api/
+
+### Modélisation décisionnelle
+
+https://www.editions-eni.fr/livre/modelisation-decisionnelle-concevoir-la-base-de-donnees-pour-les-traitements-olap-9782409007934/concevoir-le-modele
+
+Kimball, DataVault
