@@ -210,4 +210,7 @@ https://www.datacamp.com/fr/blog/becoming-a-power-bi-developer
 
 https://www.datacamp.com/fr/blog/power-bi-vs-tableau-which-one-should-you-choose
 
+### sql.sh
+
+https://sql.sh/fonctions/substring
 
