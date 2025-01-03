@@ -203,3 +203,11 @@ https://zapier.com/blog/how-to-use-api/
 https://www.editions-eni.fr/livre/modelisation-decisionnelle-concevoir-la-base-de-donnees-pour-les-traitements-olap-9782409007934/concevoir-le-modele
 
 Kimball, DataVault
+
+### PowerBI
+
+https://www.datacamp.com/fr/blog/becoming-a-power-bi-developer
+
+https://www.datacamp.com/fr/blog/power-bi-vs-tableau-which-one-should-you-choose
+
+
