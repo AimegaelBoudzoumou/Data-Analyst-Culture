@@ -236,11 +236,16 @@ https://moncoachdata.com/programmes/apprendre-python-en-30-jours/
 
 https://moncoachdata.com/blog/11-habitudes-qui-font-de-vous-un-mauvais-programmeur-python/
 
+https://moncoachdata.com/blog/20-concepts-de-statistiques/
+
+https://moncoachdata.com/programmes/bootcamp-sql-avec-python-postgresql/
+
 ## Modélisation en étoile
 
 https://www.youtube.com/watch?v=7vQwXAwKEus
 
 https://www.cartelis.com/blog/data-warehouse-modelisation-etoile/
 
-https://www.youtube.com/watch?v=unxzDJ0tqGY
+https://www.youtube.com/watch?v=yxjUymdf7ZU
 
+https://www.youtube.com/watch?v=unxzDJ0tqGY
