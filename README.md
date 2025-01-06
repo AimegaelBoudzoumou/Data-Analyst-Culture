@@ -210,7 +210,37 @@ https://www.datacamp.com/fr/blog/becoming-a-power-bi-developer
 
 https://www.datacamp.com/fr/blog/power-bi-vs-tableau-which-one-should-you-choose
 
+https://www.youtube.com/watch?v=mdHSg-LhiiU
+
+https://www.youtube.com/watch?v=n0zbVFtQgaM -- DAX
+
+https://www.youtube.com/watch?v=9x-Svf4ugDs&list=PLwFDVW56VPv7gY1d4iO025KiNpMVooCNV
+
+
+
 ### sql.sh
 
 https://sql.sh/fonctions/substring
+
+## moncoachdata.com
+
+https://moncoachdata.com/blog/sql-ordre-dexecution-des-requetes/
+
+https://moncoachdata.com/blog/le-guide-pour-maitriser-les-fonctions-window-de-sql/ -- window
+
+https://moncoachdata.com/blog/devenir-python-ninja-structures-de-donnees/
+
+https://moncoachdata.com/blog/top-3-des-fonctions-pandas-que-jaurais-aime-connaitre-plus-tot/
+
+https://moncoachdata.com/programmes/apprendre-python-en-30-jours/
+
+https://moncoachdata.com/blog/11-habitudes-qui-font-de-vous-un-mauvais-programmeur-python/
+
+## Modélisation en étoile
+
+https://www.youtube.com/watch?v=7vQwXAwKEus
+
+https://www.cartelis.com/blog/data-warehouse-modelisation-etoile/
+
+https://www.youtube.com/watch?v=unxzDJ0tqGY
 
