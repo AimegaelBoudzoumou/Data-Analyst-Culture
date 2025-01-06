@@ -216,7 +216,7 @@ https://www.youtube.com/watch?v=n0zbVFtQgaM -- DAX
 
 https://www.youtube.com/watch?v=9x-Svf4ugDs&list=PLwFDVW56VPv7gY1d4iO025KiNpMVooCNV
 
-
+https://www.youtube.com/watch?v=pCAH1lfm2QQ&t=34s
 
 ### sql.sh
 
