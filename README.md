@@ -220,6 +220,12 @@ https://www.youtube.com/watch?v=9x-Svf4ugDs&list=PLwFDVW56VPv7gY1d4iO025KiNpMVoo
 
 https://www.youtube.com/watch?v=pCAH1lfm2QQ&t=34s
 
+https://www.formationpowerbi.fr/tutoriel
+
+https://learn.microsoft.com/fr-fr/power-bi/connect-data/desktop-tutorial-importing-and-analyzing-data-from-a-web-page
+
+https://openclassrooms.com/fr/courses/7110891-realisez-des-dashboards-avec-power-bi
+
 ### sql.sh
 
 https://sql.sh/fonctions/substring
