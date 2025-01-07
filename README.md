@@ -164,10 +164,6 @@ https://blog.avanci.fr/data-comment-bien-analyser-ses-donnees
 
 https://www.limpida.com/blog/projet-analyse-de-donnees
 
-### Others
-
-https://www.iod-solutions.fr/comment-analyser-et-interpreter-les-donnees-pour-ameliorer-vos-processus-metiers/
-
 ## Statistiques
 
 https://www.mobiskill.fr/blog-posts/7-concepts-statistiques-a-connaitre-en-data-science
@@ -261,3 +257,9 @@ https://www.cartelis.com/blog/data-warehouse-modelisation-etoile/
 https://www.youtube.com/watch?v=yxjUymdf7ZU
 
 https://www.youtube.com/watch?v=unxzDJ0tqGY
+
+### Others
+
+https://www.iod-solutions.fr/comment-analyser-et-interpreter-les-donnees-pour-ameliorer-vos-processus-metiers/
+
+https://www.talend.com/fr/resources/data-crunching/
