@@ -263,3 +263,9 @@ https://www.youtube.com/watch?v=unxzDJ0tqGY
 https://www.iod-solutions.fr/comment-analyser-et-interpreter-les-donnees-pour-ameliorer-vos-processus-metiers/
 
 https://www.talend.com/fr/resources/data-crunching/
+
+https://datafromscratch.blog/
+
+https://www.youtube.com/watch?v=XOtB4CFnqlc
+
+https://www.youtube.com/watch?v=fxDPooC7IbM
