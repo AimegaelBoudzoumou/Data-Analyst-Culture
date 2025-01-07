@@ -226,6 +226,10 @@ https://learn.microsoft.com/fr-fr/power-bi/connect-data/desktop-tutorial-importi
 
 https://openclassrooms.com/fr/courses/7110891-realisez-des-dashboards-avec-power-bi
 
+## Tableau
+
+https://www.tableau.com/fr-fr/blog/LOD-expressions
+
 ### sql.sh
 
 https://sql.sh/fonctions/substring
