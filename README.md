@@ -277,3 +277,5 @@ https://www.youtube.com/watch?v=XOtB4CFnqlc
 https://www.youtube.com/watch?v=fxDPooC7IbM
 
 https://datascientest.com/count-sql-tout-savoir
+
+insert into t1 select level, level, 'x' from dual connect by level <= 10000;
