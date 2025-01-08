@@ -232,6 +232,10 @@ https://openclassrooms.com/fr/courses/7110891-realisez-des-dashboards-avec-power
 
 https://www.tableau.com/fr-fr/blog/LOD-expressions
 
+Tableau Tutorial from Youtube : 
+
+...
+
 ### sql.sh
 
 https://sql.sh/fonctions/substring
