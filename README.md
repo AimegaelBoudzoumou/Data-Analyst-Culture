@@ -275,3 +275,5 @@ https://datafromscratch.blog/
 https://www.youtube.com/watch?v=XOtB4CFnqlc
 
 https://www.youtube.com/watch?v=fxDPooC7IbM
+
+https://datascientest.com/count-sql-tout-savoir
