@@ -202,11 +202,17 @@ Kimball, DataVault
 
 ### PowerBI
 
+https://www.datacamp.com/fr/blog/power-bi-vs-tableau-which-one-should-you-choose
+
+https://www.editions-eni.fr/video/power-bi-desktop-traiter-analyser-les-donnees-et-concevoir-des-tableaux-de-bord
+
+https://www.editions-eni.fr/livre/power-bi-desktop-reporting-et-analyse-de-donnees-au-quotidien-3e-edition-9782409046261
+
+https://www.editions-eni.fr/video/business-intelligence-avec-tableau-prise-en-main-de-l-outil-de-reporting-vtbitabl -- Tuto assez ancien
+
 https://www.datacamp.com/fr/tutorial/tutorial-power-bi-for-beginners
 
 https://www.datacamp.com/fr/blog/becoming-a-power-bi-developer
-
-https://www.datacamp.com/fr/blog/power-bi-vs-tableau-which-one-should-you-choose
 
 https://www.youtube.com/watch?v=mdHSg-LhiiU
 
