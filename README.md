@@ -156,6 +156,8 @@ https://www.datacamp.com/fr/blog/what-is-data-analysis-expert-guide
 
 https://www.astera.com/fr/type/blog/data-analytics/
 
+https://www.astera.com/fr/type/blog/top-10-data-mining-techniques/
+
 ### avanci.fr
 
 https://blog.avanci.fr/data-comment-bien-analyser-ses-donnees
