@@ -206,7 +206,9 @@ Kimball, DataVault
 
 https://www.youtube.com/watch?v=7WACJemR3ck&t=159s
 
-https://www.youtube.com/watch?v=mdHSg-LhiiU&t=2s
+https://www.youtube.com/watch?v=0R2mGMQUMUA
+
+https://www.youtube.com/watch?v=mdHSg-LhiiU&t=2s -- POWER BI DESKTOP : Formation Complète (Booster votre carrière)
 
 https://www.datacamp.com/fr/blog/power-bi-vs-tableau-which-one-should-you-choose
 
