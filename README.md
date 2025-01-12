@@ -230,6 +230,14 @@ https://learn.microsoft.com/fr-fr/power-bi/connect-data/desktop-tutorial-importi
 
 https://openclassrooms.com/fr/courses/7110891-realisez-des-dashboards-avec-power-bi
 
+https://www.youtube.com/watch?v=mlLQgVFP7Ak
+
+https://www.youtube.com/watch?v=H_iWqFVyUGE
+
+https://www.youtube.com/watch?v=lMv87chmXhI
+
+https://www.next-decision.fr/editeurs-bi/restitution/microsoft-power-bi
+
 ## Tableau
 
 https://www.tableau.com/fr-fr/blog/LOD-expressions
