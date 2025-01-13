@@ -276,6 +276,8 @@ https://moncoachdata.com/programmes/bootcamp-sql-avec-python-postgresql/
 
 ## Modélisation en étoile
 
+https://www.youtube.com/results?search_query=Mod%C3%A9lisation+%C3%A9toile -- Recherche Youtube avec ce terme : Modélisation étoile
+
 https://www.youtube.com/watch?v=7vQwXAwKEus
 
 https://www.cartelis.com/blog/data-warehouse-modelisation-etoile/
