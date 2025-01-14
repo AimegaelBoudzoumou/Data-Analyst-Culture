@@ -303,3 +303,20 @@ https://www.youtube.com/watch?v=fxDPooC7IbM
 https://datascientest.com/count-sql-tout-savoir
 
 insert into t1 select level, level, 'x' from dual connect by level <= 10000;
+
+### Formations Data Analyst
+
+https://www.bluecoders.com/blog/formations-data-analyst
+
+https://www.silicon.fr/Thematique/emploi-formation-1373/Breves/5-certifications-data-pour-valoriser-votre-parcours-402567.htm
+
+https://www.tableau.com/fr-fr/learn/certification/certified-data-analyst
+
+https://formation.cnam.fr/rechercher-par-discipline/certificat-de-competence-data-analyst-charge-e-d-etudes-statistiques-200455.kjsp
+
+https://formation.cnam.fr/rechercher-par-discipline/techniques-de-la-statistique-411338.kjsp
+
+https://www.lecepe.fr/certificats/data-analyst/
+
+Data Analytics à Paris 1 Panthéon Sorbonne
+
