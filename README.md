@@ -246,6 +246,8 @@ https://www.next-decision.fr/editeurs-bi/restitution/microsoft-power-bi
 
 https://www.youtube.com/watch?v=qN_MJ6KZE-0 -- Power BI : les calculs visuels changent tout
 
+https://japprendslabi.fr/microsoft/power-bi-desktop/creer-un-modele-de-donnees-dans-power-bi-desktop/
+
 ## Tableau
 
 https://www.tableau.com/fr-fr/blog/LOD-expressions
