@@ -248,6 +248,8 @@ https://www.youtube.com/watch?v=qN_MJ6KZE-0 -- Power BI : les calculs visuels ch
 
 https://japprendslabi.fr/microsoft/power-bi-desktop/creer-un-modele-de-donnees-dans-power-bi-desktop/
 
+https://www.youtube.com/watch?v=ew-0ANvYkCA
+
 ## Tableau
 
 https://www.tableau.com/fr-fr/blog/LOD-expressions
@@ -308,6 +310,16 @@ https://datascientest.com/count-sql-tout-savoir
 
 insert into t1 select level, level, 'x' from dual connect by level <= 10000;
 
+https://www.youtube.com/watch?v=j3r37-eb_ZQ
+
+https://www.youtube.com/watch?v=pMQSgriJqR8
+
+https://learnsql.fr/blog/ce-qu-est-une-moyenne-mobile-et-comment-la-calculer-en-sql/ -- SQL Moyenne mobile
+
+https://campus.datacamp.com/courses/time-series-analysis-in-sql-server/answering-time-series-questions-with-window-functions?ex=4
+
+https://www.youtube.com/watch?v=eh_1fkBS91A
+
 ### Formations Data Analyst
 
 https://www.bluecoders.com/blog/formations-data-analyst
@@ -324,3 +336,8 @@ https://www.lecepe.fr/certificats/data-analyst/
 
 Data Analytics à Paris 1 Panthéon Sorbonne
 
+# Watch now
+
+https://www.youtube.com/watch?v=pMQSgriJqR8
+
+https://www.youtube.com/watch?v=eh_1fkBS91A
