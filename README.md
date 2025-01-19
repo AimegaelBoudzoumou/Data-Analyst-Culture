@@ -320,6 +320,8 @@ https://campus.datacamp.com/courses/time-series-analysis-in-sql-server/answering
 
 https://www.youtube.com/watch?v=eh_1fkBS91A
 
+https://www.youtube.com/watch?v=Qu99SwIprxg
+
 ### Formations Data Analyst
 
 https://www.bluecoders.com/blog/formations-data-analyst
