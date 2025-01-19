@@ -350,6 +350,10 @@ https://www.lecepe.fr/certificats/data-analyst/
 
 Data Analytics à Paris 1 Panthéon Sorbonne
 
+### Python
+
+https://www.youtube.com/watch?v=94UHCEmprCY
+
 # Watch now
 
 https://www.youtube.com/watch?v=pMQSgriJqR8
