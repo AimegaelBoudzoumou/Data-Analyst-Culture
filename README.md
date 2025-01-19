@@ -296,6 +296,8 @@ https://www.youtube.com/watch?v=unxzDJ0tqGY
 
 ### Others
 
+https://www.youtube.com/watch?v=-u-kCJmJHCk - Advanced SQL : Union, CTE, CAST function, Date expression, Window function, Join, Numeric function, Null function
+
 https://www.youtube.com/watch?v=ndM4YzkqjMg
 
 https://www.iod-solutions.fr/comment-analyser-et-interpreter-les-donnees-pour-ameliorer-vos-processus-metiers/
