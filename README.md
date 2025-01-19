@@ -250,6 +250,8 @@ https://japprendslabi.fr/microsoft/power-bi-desktop/creer-un-modele-de-donnees-d
 
 https://www.youtube.com/watch?v=ew-0ANvYkCA
 
+https://www.youtube.com/watch?v=4rC9Ow76n0U -- DAX (data analysis expression)
+
 ## Tableau
 
 https://www.tableau.com/fr-fr/blog/LOD-expressions
