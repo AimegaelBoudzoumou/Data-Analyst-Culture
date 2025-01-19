@@ -324,6 +324,12 @@ https://www.youtube.com/watch?v=Qu99SwIprxg
 
 https://datanerd.tech/
 
+https://jilda-ja.systeme.io/ebookdatastorytelling -- "impacter avec des données - le guide du datastorytelling"
+
+https://www.kaggle.com/
+
+Toastmasters : prise de parole en public
+
 ### Formations Data Analyst
 
 https://www.bluecoders.com/blog/formations-data-analyst
