@@ -334,6 +334,16 @@ https://www.kaggle.com/
 
 Toastmasters : prise de parole en public
 
+https://www.data-bird.co/blog/pipeline-de-donnees#:~:text=L%27automatisation%20des%20pipelines%20de%20donn%C3%A9es%20permet%20de%20traiter%20de,les%20nouveaux%20produits%20et%20services -- pipeline de données
+
+https://www.ibm.com/fr-fr/topics/data-pipeline -- pipeline de données
+
+https://www.astera.com/fr/type/blog/build-a-data-pipeline/
+
+https://www.stonebranch.com/fr/blog/un-pipeline-de-donnees-quest-ce-que-cest-les-definitions-a-connaitre-absolument
+
+https://www.editions-eni.fr/livre/business-intelligence-avec-python-creez-vos-outils-bi-de-a-a-z-9782409048043/automatiser-votre-pipeline
+
 ### Formations Data Analyst
 
 https://www.bluecoders.com/blog/formations-data-analyst
