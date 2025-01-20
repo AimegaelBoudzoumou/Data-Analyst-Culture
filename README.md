@@ -252,6 +252,14 @@ https://www.youtube.com/watch?v=ew-0ANvYkCA
 
 https://www.youtube.com/watch?v=4rC9Ow76n0U -- DAX (data analysis expression)
 
+https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/?ranMID=39197&ranEAID=E7g%2FxDr%2FWGM&ranSiteID=E7g_xDr_WGM-1IBRlMCHtvLZrqzzVdKnWQ&utm_source=aff-campaign&LSNPUBID=E7g%2FxDr%2FWGM&utm_medium=udemyads
+
+https://www.udemy.com/course/mspowerbi/?ranMID=39197&ranEAID=E7g%2FxDr%2FWGM&ranSiteID=E7g_xDr_WGM-l2B3zK0B2QYlFdsoNwwELA&utm_source=aff-campaign&LSNPUBID=E7g%2FxDr%2FWGM&utm_medium=udemyads
+
+## Power Query
+
+https://learn.microsoft.com/fr-fr/power-query/power-query-what-is-power-query
+
 ## Tableau
 
 https://www.tableau.com/fr-fr/blog/LOD-expressions
