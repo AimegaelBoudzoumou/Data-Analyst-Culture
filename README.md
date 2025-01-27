@@ -12,6 +12,23 @@ Let's go !
 
 Articles à exploiter : 
 
+### Python pour la Data Science
+
+https://www.youtube.com/watch?v=wzGKSKDanD4 -- [DLC5] Python/Data Science : Analyse de Données Avec Python -- LeCoinStat
+
+https://www.youtube.com/watch?v=LIcWsWIwXH4 -- Analyse de Données avec Python en 20 min : Statistiques Bivariées Pour Le Machine Learning -- LeCoinStat
+
+https://www.youtube.com/watch?v=jqZ3ATcm3yE -- [DLC1] Python Pour La Data Science: Les Bases Pour Bien Démarrer -- LeCoinStat
+
+https://www.youtube.com/watch?v=4bccU9eMrkw -- Les bases de la data science avec Python -- Docstring
+
+Apprendre Python, Numpy, Pandas pour la Data Science [Cours complet Niveau Débutant avec Notebooks] -- J.A DATATECH CONSULTING
+
+https://www.youtube.com/watch?v=k8pifdQjtEA -- Réaliser une analyse exploratoire des données avec Python | Pandas | pandas-profiling | Plotly -- J.A DATATECH CONSULTING
+
+[https://www.youtube.com/watch?v=SsNtZgkOK8E -- ](https://www.youtube.com/watch?v=LD9crTguBss) -- LeCoinStat
+
+
 ### Sources : learnsql.fr
 
 https://learnsql.fr/blog/conversion-de-sous-requetes-en-jointures/
