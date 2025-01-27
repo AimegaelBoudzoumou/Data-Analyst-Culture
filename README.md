@@ -20,6 +20,8 @@ https://www.youtube.com/watch?v=LIcWsWIwXH4 -- Analyse de Données avec Python e
 
 https://www.youtube.com/watch?v=jqZ3ATcm3yE -- [DLC1] Python Pour La Data Science: Les Bases Pour Bien Démarrer -- LeCoinStat
 
+https://www.youtube.com/watch?v=PoovXbV9Ky0 -- 5 Livres Qui Vont Complètement Booster Votre Niveau En Data Science -- LeCoinStat
+
 https://www.youtube.com/watch?v=4bccU9eMrkw -- Les bases de la data science avec Python -- Docstring
 
 Apprendre Python, Numpy, Pandas pour la Data Science [Cours complet Niveau Débutant avec Notebooks] -- J.A DATATECH CONSULTING
