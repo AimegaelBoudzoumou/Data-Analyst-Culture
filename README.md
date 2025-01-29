@@ -361,6 +361,10 @@ https://www.kaggle.com/
 
 Toastmasters : prise de parole en public
 
+### conception de pipelines de données (ETL)
+
+https://www.astera.com/fr/type/blog/etl-pipeline/
+
 https://www.data-bird.co/blog/pipeline-de-donnees#:~:text=L%27automatisation%20des%20pipelines%20de%20donn%C3%A9es%20permet%20de%20traiter%20de,les%20nouveaux%20produits%20et%20services -- pipeline de données
 
 https://www.ibm.com/fr-fr/topics/data-pipeline -- pipeline de données
