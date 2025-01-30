@@ -33,6 +33,8 @@ https://www.youtube.com/watch?v=k8pifdQjtEA -- Réaliser une analyse exploratoir
 
 ### Sources : learnsql.fr
 
+https://learnsql.fr/blog/ordre-des-operations-sql/
+
 https://learnsql.fr/blog/conversion-de-sous-requetes-en-jointures/
 
 https://learnsql.fr/blog/sous-requete-et-cte-une-introduction-au-sql/
