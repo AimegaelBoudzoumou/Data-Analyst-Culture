@@ -225,6 +225,8 @@ Kimball, DataVault
 
 ### PowerBI
 
+https://www.youtube.com/watch?v=S1r634GV3JA
+
 https://www.youtube.com/watch?v=7WACJemR3ck&t=159s
 
 https://www.youtube.com/watch?v=0R2mGMQUMUA
