@@ -325,6 +325,24 @@ https://www.youtube.com/watch?v=yxjUymdf7ZU
 
 https://www.youtube.com/watch?v=unxzDJ0tqGY
 
+### SQL Window Function
+
+https://mode.com/sql-tutorial/sql-window-functions -- sql window functions
+
+https://youtube.com/shorts/qa_0Qx41qQI?si=IV3B4HoJWFIMVShB -- sql window functions
+
+https://www.youtube.com/@absentdata/shorts
+
+https://www.datacamp.com/cheat-sheet/sql-window-functions-cheat-sheet
+
+https://www.freecodecamp.org/news/window-functions-in-sql/
+
+https://learnsql.fr/blog/que-sont-les-fonctions-sql-window/
+
+https://www.sqltutorial.org/sql-window-functions/
+
+https://medium.com/@manutej/mastering-sql-window-functions-guide-e6dc17eb1995
+
 ### Others
 
 https://www.talend.com/fr/resources/structured-vs-unstructured-data/
@@ -408,6 +426,10 @@ Data Analytics à Paris 1 Panthéon Sorbonne
 ### Python
 
 https://www.youtube.com/watch?v=94UHCEmprCY
+
+### Bash
+
+https://www.youtube.com/watch?v=YrE1Qg-Aw0Q&list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&index=5 -- à déplacer plus tard
 
 # Watch now
 
