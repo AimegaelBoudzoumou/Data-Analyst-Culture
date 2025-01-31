@@ -325,6 +325,16 @@ https://www.youtube.com/watch?v=unxzDJ0tqGY
 
 ### Others
 
+https://www.talend.com/fr/resources/structured-vs-unstructured-data/
+
+https://www.netapp.com/fr/data-storage/unstructured-data/what-is-unstructured-data/
+
+https://www.oracle.com/fr/big-data/structured-vs-unstructured-data/
+
+https://aws.amazon.com/fr/compare/the-difference-between-structured-data-and-unstructured-data/
+
+https://www.jedha.co/formation-analyse-donnee/difference-donnees-structurees-non-structurees
+
 https://www.youtube.com/watch?v=-u-kCJmJHCk - Advanced SQL : Union, CTE, CAST function, Date expression, Window function, Join, Numeric function, Null function
 
 https://www.youtube.com/watch?v=ndM4YzkqjMg
