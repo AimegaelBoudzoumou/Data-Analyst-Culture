@@ -30,6 +30,9 @@ https://www.youtube.com/watch?v=k8pifdQjtEA -- Réaliser une analyse exploratoir
 
 [https://www.youtube.com/watch?v=SsNtZgkOK8E -- ](https://www.youtube.com/watch?v=LD9crTguBss) -- LeCoinStat
 
+### Pandas
+
+https://www.udemy.com/course/data-analysis-with-pandas/ -- Ultimate Pandas and Python Data Analysis (Complete Course) | Udemy
 
 ### Sources : learnsql.fr
 
