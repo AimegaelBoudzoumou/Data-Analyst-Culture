@@ -430,6 +430,10 @@ Data Analytics à Paris 1 Panthéon Sorbonne
 
 https://www.youtube.com/watch?v=94UHCEmprCY
 
+### Excel
+
+https://www.youtube.com/watch?v=f6tkMn3i-TA
+
 ### Bash
 
 https://www.youtube.com/watch?v=YrE1Qg-Aw0Q&list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&index=5 -- à déplacer plus tard
