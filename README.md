@@ -426,6 +426,10 @@ https://www.lecepe.fr/certificats/data-analyst/
 
 Data Analytics à Paris 1 Panthéon Sorbonne
 
+## Collecte des données
+
+https://www.youtube.com/watch?v=cd_jj0IRmaA -- Alex The Data Analyst
+
 ### Python
 
 https://www.youtube.com/watch?v=94UHCEmprCY
