@@ -30,6 +30,8 @@ https://www.youtube.com/watch?v=k8pifdQjtEA -- Réaliser une analyse exploratoir
 
 [https://www.youtube.com/watch?v=SsNtZgkOK8E -- ](https://www.youtube.com/watch?v=LD9crTguBss) -- LeCoinStat
 
+https://www.youtube.com/watch?v=LRjnjipMe54  -- SQL pour Débutant(e)s Jour 1 - Découverte et Maîtrise des Fondamentaux de SQL
+
 ### Pandas
 
 https://www.udemy.com/course/data-analysis-with-pandas/ -- Ultimate Pandas and Python Data Analysis (Complete Course) | Udemy
@@ -133,8 +135,6 @@ https://learnsql.fr/blog/tags/analyse-des-donn%C3%A9es/
 ### coursera
 
 https://www.coursera.org/learn/statistics-for-data-science-python
-
-
 
 ### analytics.fr
 
