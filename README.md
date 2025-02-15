@@ -38,6 +38,10 @@ https://www.udemy.com/course/data-analysis-with-pandas/ -- Ultimate Pandas and P
 
 ### Sources : learnsql.fr
 
+https://learnsql.com/blog/insights-from-data-analyst/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter-february-2025
+
+https://learnsql.com/blog/sql-project-examples/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter-february-2025#6-sales-analysis
+
 https://learnsql.fr/blog/ordre-des-operations-sql/
 
 https://learnsql.fr/blog/conversion-de-sous-requetes-en-jointures/
@@ -451,3 +455,5 @@ https://www.youtube.com/watch?v=eh_1fkBS91A
 https://www.youtube.com/watch?v=eh_1fkBS91A
 
 https://www.data-bird.co/blog/recrutement-data-analyst-questions
+
+https://www.youtube.com/shorts/ommU5FehtFs
