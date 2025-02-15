@@ -442,10 +442,12 @@ https://www.youtube.com/watch?v=f6tkMn3i-TA
 
 https://www.youtube.com/watch?v=YrE1Qg-Aw0Q&list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&index=5 -- à déplacer plus tard
 
-# Watch now
+# Watch/Read now
 
 https://www.youtube.com/watch?v=pMQSgriJqR8
 
 https://www.youtube.com/watch?v=eh_1fkBS91A
 
 https://www.youtube.com/watch?v=eh_1fkBS91A
+
+https://www.data-bird.co/blog/recrutement-data-analyst-questions
