@@ -452,9 +452,10 @@ https://www.oracle.com/fr/security/definition-data-governance/
 
 https://www.sap.com/france/products/data-cloud/master-data-governance/what-is-data-governance.html
 
-### Bash
+### Bash : à déplacer plus tard
 
-https://www.youtube.com/watch?v=YrE1Qg-Aw0Q&list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&index=5 -- à déplacer plus tard
+https://www.youtube.com/watch?v=YrE1Qg-Aw0Q&list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&index=5
+https://www.youtube.com/watch?v=rMpa-VgJ_UQ
 
 # Watch/Read now
 
