@@ -442,6 +442,16 @@ https://www.youtube.com/watch?v=94UHCEmprCY
 
 https://www.youtube.com/watch?v=f6tkMn3i-TA
 
+### Gouvernance de données
+
+https://www.talend.com/fr/resources/guide-gouvernance-donnees/
+
+https://www.ibm.com/fr-fr/topics/data-governance
+
+https://www.oracle.com/fr/security/definition-data-governance/
+
+https://www.sap.com/france/products/data-cloud/master-data-governance/what-is-data-governance.html
+
 ### Bash
 
 https://www.youtube.com/watch?v=YrE1Qg-Aw0Q&list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&index=5 -- à déplacer plus tard
@@ -457,3 +467,5 @@ https://www.youtube.com/watch?v=eh_1fkBS91A
 https://www.data-bird.co/blog/recrutement-data-analyst-questions
 
 https://www.youtube.com/shorts/ommU5FehtFs
+
+https://www.talend.com/fr/resources/data-steward/
