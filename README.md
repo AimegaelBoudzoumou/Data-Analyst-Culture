@@ -459,6 +459,8 @@ https://www.youtube.com/watch?v=rMpa-VgJ_UQ
 
 # Watch/Read now
 
+https://www.datacamp.com/fr/blog/power-bi-certification?dc_referrer=https%3A%2F%2Fwww.google.com%2F
+
 https://www.youtube.com/watch?v=pMQSgriJqR8
 
 https://www.youtube.com/watch?v=eh_1fkBS91A
