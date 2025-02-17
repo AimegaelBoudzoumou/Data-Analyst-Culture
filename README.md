@@ -232,6 +232,8 @@ Kimball, DataVault
 
 ### PowerBI
 
+https://www.youtube.com/watch?v=BX1Pc6i0kb8 -- Pivoter/Dépivoter les colonnes
+
 https://www.youtube.com/watch?v=S1r634GV3JA
 
 https://www.youtube.com/watch?v=7WACJemR3ck&t=159s
