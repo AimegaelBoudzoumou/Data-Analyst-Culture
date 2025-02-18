@@ -10,7 +10,11 @@ Dans chaque répertoire, le fichier __Introduction__ présente la source et le c
 
 Let's go !
 
-Articles à exploiter : 
+Articles à exploiter :
+
+### Alteryx :
+
+https://www.alteryx.com/fr/sparked/learning-programs/independent-learners
 
 ### Modélisation de données 
 
