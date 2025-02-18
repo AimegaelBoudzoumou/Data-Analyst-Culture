@@ -12,6 +12,10 @@ Let's go !
 
 Articles à exploiter : 
 
+### Modélisation de données 
+
+https://www.lemagit.fr/conseil/Les-sept-modeles-de-donnees-les-plus-utilises-en-entreprise
+
 ### Python pour la Data Science
 
 https://www.youtube.com/watch?v=wzGKSKDanD4 -- [DLC5] Python/Data Science : Analyse de Données Avec Python -- LeCoinStat
@@ -460,6 +464,8 @@ https://www.youtube.com/watch?v=YrE1Qg-Aw0Q&list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2m
 https://www.youtube.com/watch?v=rMpa-VgJ_UQ
 
 # Watch/Read now
+
+https://www.youtube.com/watch?v=Vvoqmplnj90
 
 https://www.datacamp.com/fr/blog/power-bi-certification?dc_referrer=https%3A%2F%2Fwww.google.com%2F
 
