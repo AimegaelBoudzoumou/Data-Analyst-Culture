@@ -469,6 +469,8 @@ https://www.youtube.com/watch?v=rMpa-VgJ_UQ
 
 # Watch/Read now
 
+https://www.datacamp.com/fr/tutorial/group-by-having-clause-sql
+
 https://www.youtube.com/watch?v=Vvoqmplnj90
 
 https://www.datacamp.com/fr/blog/power-bi-certification?dc_referrer=https%3A%2F%2Fwww.google.com%2F
