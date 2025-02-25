@@ -469,6 +469,10 @@ https://www.youtube.com/watch?v=rMpa-VgJ_UQ
 
 # Watch/Read now
 
+https://www.youtube.com/watch?v=k8nBWL6K884
+
+https://www.youtube.com/watch?v=Ka2mDrKEAhg
+
 https://www.datacamp.com/fr/tutorial/group-by-having-clause-sql
 
 https://www.youtube.com/watch?v=Vvoqmplnj90
