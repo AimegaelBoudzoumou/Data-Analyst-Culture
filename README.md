@@ -20,6 +20,10 @@ https://www.alteryx.com/fr/sparked/learning-programs/independent-learners
 
 https://www.lemagit.fr/conseil/Les-sept-modeles-de-donnees-les-plus-utilises-en-entreprise
 
+### BootCams 
+
+https://www.udemy.com/course/become-a-data-analyst-python-excel-sql-power-bi/
+
 ### Python pour la Data Science
 
 https://www.youtube.com/watch?v=wzGKSKDanD4 -- [DLC5] Python/Data Science : Analyse de Données Avec Python -- LeCoinStat
