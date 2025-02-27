@@ -20,7 +20,7 @@ https://www.alteryx.com/fr/sparked/learning-programs/independent-learners
 
 https://www.lemagit.fr/conseil/Les-sept-modeles-de-donnees-les-plus-utilises-en-entreprise
 
-### BootCams 
+### BootCamps
 
 https://www.udemy.com/course/become-a-data-analyst-python-excel-sql-power-bi/
 
@@ -243,6 +243,14 @@ https://www.editions-eni.fr/livre/modelisation-decisionnelle-concevoir-la-base-d
 Kimball, DataVault
 
 ### PowerBI
+
+Power Apps : Le Guide Ultime | Tutoriel pour débutants
+
+Power BI Tips and Tricks
+
+The Most Important DAX Functions You Must Know in Power BI
+
+Power BI DAX Tutorial - Beginner to Advanced [Full Course]
 
 https://www.youtube.com/watch?v=BX1Pc6i0kb8 -- Pivoter/Dépivoter les colonnes
 
