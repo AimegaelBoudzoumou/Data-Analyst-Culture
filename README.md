@@ -479,6 +479,14 @@ https://www.sap.com/france/products/data-cloud/master-data-governance/what-is-da
 https://www.youtube.com/watch?v=YrE1Qg-Aw0Q&list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&index=5
 https://www.youtube.com/watch?v=rMpa-VgJ_UQ
 
+### SQL Avancés :
+
+https://www.cours-gratuit.com/langage-sql/exercice-langage-sql-requetes-complexes#google_vignette
+
+https://learnsql.fr/blog/apprendre-le-sql-avance-avec-learnsqlcom/
+
+https://learnsql.fr/blog/les-7-meilleures-requetes-sql-avancees-pour-l-analyse-des-donnees/
+
 # Watch/Read now
 
 https://www.youtube.com/watch?v=k8nBWL6K884
