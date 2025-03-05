@@ -487,6 +487,8 @@ https://learnsql.fr/blog/apprendre-le-sql-avance-avec-learnsqlcom/
 
 https://learnsql.fr/blog/les-7-meilleures-requetes-sql-avancees-pour-l-analyse-des-donnees/
 
+https://moncoachdata.com/blog/top-10-des-requetes-sql-avancees/
+
 # Watch/Read now
 
 https://www.youtube.com/watch?v=k8nBWL6K884
