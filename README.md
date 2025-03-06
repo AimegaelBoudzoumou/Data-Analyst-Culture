@@ -512,3 +512,5 @@ https://www.data-bird.co/blog/recrutement-data-analyst-questions
 https://www.youtube.com/shorts/ommU5FehtFs
 
 https://www.talend.com/fr/resources/data-steward/
+
+https://www.getdbt.com/blog/etl-vs-elt
