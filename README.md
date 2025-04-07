@@ -12,6 +12,10 @@ Let's go !
 
 Articles à exploiter :
 
+Python Data Science December [Completed] - 24 Data Science Projects
+
+https://www.reddit.com/r/Python/comments/zu7vqp/python_data_science_december_completed_24_data/?rdt=42537
+
 ### kaggle
 
 https://www.kaggle.com/discussions/general/433860
