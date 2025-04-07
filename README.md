@@ -12,6 +12,15 @@ Let's go !
 
 Articles à exploiter :
 
+### kaggle
+
+https://www.kaggle.com/discussions/general/433860
+
+https://statso.io/customer-lifetime-value-analytics-case-study/
+
+Descriptive analysis - Diagnostic analysis - Predictive analysis - Prescriptive analysis
+https://www.datacamp.com/blog/what-is-data-analysis-expert-guide
+
 ### Alteryx :
 
 https://www.alteryx.com/fr/sparked/learning-programs/independent-learners
