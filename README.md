@@ -33,11 +33,21 @@ https://www.alteryx.com/fr/sparked/learning-programs/independent-learners
 
 https://www.lemagit.fr/conseil/Les-sept-modeles-de-donnees-les-plus-utilises-en-entreprise
 
+## Comment Faire des Requêtes Imbriquées en SQL
+
+https://sqlite.fr/guide/nesting/
+
+https://datajourney.io/les-fonctions-de-fenetrage-en-sql.html
+
 ### BootCamps
 
 https://www.udemy.com/course/become-a-data-analyst-python-excel-sql-power-bi/
 
 ### Python pour la Data Science (Pandas)
+
+Optimiser la lecture des fichiers avec Pandas - Luc Estienne :
+
+https://www.luc-estienne.com/blog/articles-6/optimisation-de-la-lecture-des-fichiers-csv-avec-pandas-en-python-10
 
 https://www.datacamp.com/tutorial/pandas-read-csv 
 
