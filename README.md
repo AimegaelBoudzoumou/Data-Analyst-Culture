@@ -67,6 +67,10 @@ https://www.udemy.com/course/data-analysis-with-pandas/ -- Ultimate Pandas and P
 
 ### Sources : learnsql.fr
 
+Sales Growth Dataset Exploration – Using the Data Analyst Cheat Sheet on Real Sales Data :
+
+https://learnsql.com/blog/data-analyst-cheat-sheet-on-real-sales-data/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter-april-2025
+
 https://learnsql.com/blog/insights-from-data-analyst/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter-february-2025
 
 https://learnsql.com/blog/sql-project-examples/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter-february-2025#6-sales-analysis
